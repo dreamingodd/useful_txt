@@ -1,0 +1,4 @@
+* category which has leaf category cannot add sub-category
+* category whose level is 4 cannot add sub-category
+* category's unit cannot be changed
+* merchandise's unit cannot be changed
