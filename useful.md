@@ -1,3 +1,5 @@
+as such experience is another source of knowledge. 实践本身是知识的另一来源.
+empathy sympathy
 
 
 Choosefine related:
