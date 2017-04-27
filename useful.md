@@ -1,3 +1,5 @@
+
+
 biennially annually
 gdp deflator (remove)
 accessory (refresh)
@@ -14,6 +16,11 @@ choosefine zentao:
 choosefine dev: choosefine choosefine
 choosefine nexus maven: admin choosefine
 choosefine mockingboot: guwenwei@choosefine.com 59855615
+choosefine dms dev: 18510066436 123456
+choosefine DEV: 192.168.59.221 quheng qh123456  root qh123456
+choosefine Docker: https://192.168.59.250 yewenda A@a12345678
+choosefine DEV jenkins: http://192.168.59.221:8888 tester tester
+
 
 Intellij JRebel Activate code :
     U9vE/R3XkDrc62RxBnVmvN7oZInPaeX1MIBX84MQELD9KqWEdSo78URsnylDsvfnR57iDLp3VKw5oWUlWD1ahJb6hmQ/pPbOGJRUlMqBygcfGvodK9K+sgVNIoO7bZJRwT1ajg==
