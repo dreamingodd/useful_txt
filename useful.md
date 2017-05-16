@@ -1,9 +1,4 @@
 
-
-biennially annually
-gdp deflator (remove)
-accessory (refresh)
-
 Choosefine related:
 choosefine my computer: 192.168.59.175
 choosefine test server windows: 192.168.59.187 Administrator 123456
@@ -19,7 +14,19 @@ choosefine mockingboot: guwenwei@choosefine.com 59855615
 choosefine dms dev: 18510066436 123456
 choosefine DEV: 192.168.59.221 quheng qh123456  root qh123456
 choosefine Docker: https://192.168.59.250 yewenda A@a12345678
-choosefine DEV jenkins: http://192.168.59.221:8888 tester tester
+choosefine DEV jenkins: http://192.168.59.240:8080 tester tester
+choosefine APIGateway: http://signin.aliyun.com/1177279258909396/login.htm  QH.ApiGateway  QuHeng.6677
+
+test.sxiaobao.com:81/pages/login/login.html
+施小包客服平台（后台控制台）
+test.sxiaobao.com:82/pages/login-page/login-page.html
+施小包卖家中心（设备供应商）
+test.sxiaobao.com:83/pages/login-page/login-page.html
+施小包卖家中心（设施供应商）
+test.sxiaobao.com:84/pages/login-page/login-page.html
+施小包卖家中心（材料供应商）
+http://test.sxiaobao.com:85/pages/login/login.html
+施小包web（买家PC端）
 
 
 Intellij JRebel Activate code :
