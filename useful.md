@@ -16,6 +16,23 @@ choosefine zentao:
 choosefine dev: choosefine choosefine
 choosefine nexus maven: admin choosefine
 choosefine mockingboot: guwenwei@choosefine.com 59855615
+choosefine dms dev: 18510066436 123456
+choosefine DEV: 192.168.59.221 quheng qh123456  root qh123456
+choosefine Docker: https://192.168.59.250 yewenda A@a12345678
+choosefine DEV jenkins: http://192.168.59.240:8080 tester tester
+choosefine APIGateway: http://signin.aliyun.com/1177279258909396/login.htm  QH.ApiGateway  QuHeng.6677
+
+test.sxiaobao.com:81/pages/login/login.html
+施小包客服平台（后台控制台）
+test.sxiaobao.com:82/pages/login-page/login-page.html
+施小包卖家中心（设备供应商）
+test.sxiaobao.com:83/pages/login-page/login-page.html
+施小包卖家中心（设施供应商）
+test.sxiaobao.com:84/pages/login-page/login-page.html
+施小包卖家中心（材料供应商）
+http://test.sxiaobao.com:85/pages/login/login.html
+施小包web（买家PC端）
+
 
 Intellij JRebel Activate code :
     U9vE/R3XkDrc62RxBnVmvN7oZInPaeX1MIBX84MQELD9KqWEdSo78URsnylDsvfnR57iDLp3VKw5oWUlWD1ahJb6hmQ/pPbOGJRUlMqBygcfGvodK9K+sgVNIoO7bZJRwT1ajg==
