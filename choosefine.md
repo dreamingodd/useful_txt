@@ -1,19 +1,31 @@
-
+alive monitor: http://101.37.174.95:8081/hb/login.hb pay 123456
 disconf: 192.168.59.240:8083 admin_read admin
 jenkins: http://192.168.59.240:8083 developer developer / tester tester
 choosefine APIGateway: http://signin.aliyun.com/1177279258909396/login.htm 1177279258909396  QH.ApiGateway  QuHeng.6677
 
-dev    IP: 192.168.59.221
-    choosefine DEV: 192.168.59.221 quheng qh123456  root qh123456
-    choosefine dev: 192.168.59.2:13306 choosefine choosefine
-    choosefine Docker: https://192.168.59.250 yewenda A@a12345678
-test   IP: 101.37.175.21
-    choosefine test server mysql: root 123456 manager quheng123
-    test 日志: http://101.37.175.21/ choosefine Qh123$%^
-pre    IP: 116.62.46.157
-uat    IP:
-opt    IP:
-online IP:
+Pay Center:
+    DEV    IP: 192.168.59.2:322 docker 123456
+Market:
+    DEV    IP: 192.168.59.221
+        choosefine DEV: 192.168.59.221 quheng qh123456  root qh123456
+        choosefine dev: 192.168.59.2:13306 choosefine choosefine
+        choosefine Docker: https://192.168.59.250 yewenda A@a12345678
+    TEST   IP: 101.37.175.21
+        choosefine test server mysql: root 123456 manager quheng123
+        test 日志: http://101.37.175.21/ choosefine Qh123$%^
+    PRE    IP: 116.62.46.157
+    UAT    IP:
+    OPT    IP:
+    PROD   IP:
+External Connection Platform - Withdraw:
+    PROD:
+        windows: 122.224.223.105:43389  administrator  Qh123$%^
+        linux:   122.224.223.105:40022  choosefine  Qh123$%^   root密码同
+External Connection Platform - Retrieve:
+    DEV:
+        windows: 192.168.59.241  root  qh123456
+    PROD:
+
 
 Refresh shopping's categoryName, areaName, shopName cache URL:
     PUT /base/shopping/cache
@@ -63,3 +75,17 @@ Intellij JRebel Activate code :
 alwasylookback@sina.com的aliyun access key & secret：
     LTAIwUIiwj2BTd6Y
     4TscxoggHPMHH3n8wj9Ws5xw0x58FV
+
+建行B2B测试账号：
+杭州和村娱乐管理有限公司，账号：33050161772700000616
+网银客户号：ZJ33000009171012101
+开户行：建设银行杭州经济技术开发区支行
+
+
+java-江助正 7:30:47 PM
+建筑公司： 13999996666     设施 ：13855553333
+分包班组单位：13444441111   材料 ：13355557777   设备：13855552222
+
+班组承包人：13688882222
+项目经理：13111116666
+建筑公司：17788889999    班组 17744445555    项目经理15868110040
