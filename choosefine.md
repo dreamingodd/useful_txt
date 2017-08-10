@@ -1,5 +1,6 @@
 alive monitor: http://101.37.174.95:8081/hb/login.hb pay 123456
 disconf: 192.168.59.240:8083 admin_read admin
+disconf.sxb.lol : ywd 123456
 jenkins: http://192.168.59.240:8083 developer developer / tester tester
 choosefine APIGateway: http://signin.aliyun.com/1177279258909396/login.htm 1177279258909396  QH.ApiGateway  QuHeng.6677
 
@@ -26,6 +27,7 @@ External Connection Platform - Retrieve:
         windows: 192.168.59.241  root  qh123456
     PROD:
 
+git.sxb.lol: yewenda choosefine
 
 Refresh shopping's categoryName, areaName, shopName cache URL:
     PUT /base/shopping/cache
