@@ -29,6 +29,8 @@ External Connection Platform - Retrieve:
 
 git.sxb.lol: yewenda choosefine
 
+http://paycenter-inner.sxb.lol/ 13142016212 123456
+
 Refresh shopping's categoryName, areaName, shopName cache URL:
     PUT /base/shopping/cache
 Refresh shopping's merchants' category name URL:
