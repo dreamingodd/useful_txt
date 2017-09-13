@@ -4,7 +4,10 @@ Credit Card: POS: dq520d
 
 -----------------------------------------------------------
 Youdao:
-cape promontory
+rumble ramble
+海峡 neck
+海角 cape promontory
+hazy filmy
 
 -----------------------------------------------------------
 
