@@ -8,7 +8,7 @@ Pay Center:
     DEV    IP: 192.168.59.2:322 docker 123456
 Market:
     DEV    IP: 192.168.59.221
-        choosefine DEV: 192.168.59.221 quheng qh123456  root qh123456
+        choosefine DEV: 192.168.59.221 choosefine qh123456  root qh123456
         choosefine dev: 192.168.59.2:13306 choosefine choosefine
         choosefine Docker: https://192.168.59.250 yewenda A@a12345678
     TEST   IP: 101.37.175.21
