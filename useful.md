@@ -5,6 +5,10 @@ Credit Card: POS: dq520d
 -----------------------------------------------------------
 Youdao:
 cape promontory
+dam couseway
+fence barrier palisade bailey
+droll clow clown
+starch mortar
 
 -----------------------------------------------------------
 
