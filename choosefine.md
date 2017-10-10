@@ -27,6 +27,13 @@ External Connection Platform - Retrieve:
         windows: 192.168.59.241  root  qh123456
     PROD:
 
+RocketMQ:
+    http://192.168.59.244:8080/#/
+    http://rocketmq-test.sxiaobao.com/
+    http://118.31.184.34:12581/
+    http://118.178.225.229:12581/
+
+
 git.sxb.lol: yewenda choosefine
 
 http://paycenter-inner.sxb.lol/ 13142016212 123456
