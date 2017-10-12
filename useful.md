@@ -1,6 +1,6 @@
 Credit Card: POS: dq520d
 
-
+http://www.pingan.com/bdcy.shtml
 
 -----------------------------------------------------------
 Youdao:
