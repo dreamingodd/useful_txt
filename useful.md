@@ -13,6 +13,9 @@ advocate Mr. Williams is a conservative who advocates fewer government controls 
 mould moulder smoulder
 joust jostle
 corridor 查图
+freckle fleck
+gash gale
+wheat barley
 -----------------------------------------------------------
 
 Fringe Observer Appearances:
