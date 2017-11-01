@@ -6,7 +6,7 @@ http://www.pingan.com/bdcy.shtml
 Youdao:
 cape promontory
 dam couseway
-fence barrier palisade bailey
+fence barrier palisade bailey battlement
 droll clow clown
 starch mortar
 advocate Mr. Williams is a conservative who advocates fewer government controls on business.
@@ -16,6 +16,7 @@ corridor 查图
 freckle fleck
 gash gale
 wheat barley
+breach breech
 -----------------------------------------------------------
 
 Fringe Observer Appearances:
