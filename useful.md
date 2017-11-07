@@ -17,6 +17,7 @@ freckle fleck
 gash gale
 wheat barley
 breach breech
+forlorn forsake
 -----------------------------------------------------------
 
 Fringe Observer Appearances:
