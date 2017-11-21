@@ -11,6 +11,7 @@ Market:
         choosefine DEV: 192.168.59.221 choosefine qh123456  root qh123456
         choosefine dev: 192.168.59.2:13306 choosefine choosefine
         choosefine Docker: https://192.168.59.250 yewenda A@a12345678
+    INNER  IP: 192.168.59.231 choosefine qh123456
     TEST   IP: 101.37.175.21
         choosefine test server mysql: root 123456 manager quheng123
         test 日志: http://101.37.175.21/ choosefine Qh123$%^
