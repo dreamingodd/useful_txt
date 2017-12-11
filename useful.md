@@ -1,5 +1,13 @@
 Credit Card: POS: dq520d
 
+IP:
+  www.baidu.com : 183.232.231.173
+  www.google.com : 74.86.228.110
+
+ExpressVPN:
+  156.154.70.1
+  4.2.2.1
+
 http://www.pingan.com/bdcy.shtml
 
 -----------------------------------------------------------
