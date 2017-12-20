@@ -18,7 +18,9 @@ tail -200f /opt/log/blocks-limited-api/spring.log
 
 virtual box - ubuntu16.04-ethereum - ywd ywd
 
-47.52.240.141
+aliyun
+ubu-hk-1 47.52.240.141 505854
+win-hk-1 977504
 
 yunpian huhao 黄埔社区 797169378c121e86aa8d42dd3198cdfb
 yunpian 15869154101 2 18588260056 mvcmvcmvc
