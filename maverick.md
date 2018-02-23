@@ -20,6 +20,7 @@ virtual box - ubuntu16.04-ethereum - ywd ywd
 
 aliyun
 ubu-hk-1 47.52.240.141 505854
+ubu-hk-2 47.75.14.213  562305
 win-hk-1 977504
 win-hk-2 114679
 
