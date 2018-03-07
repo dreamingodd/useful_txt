@@ -21,8 +21,13 @@ virtual box - ubuntu16.04-ethereum - ywd ywd
 aliyun
 ubu-hk-1 47.52.240.141 505854
 ubu-hk-2 47.75.14.213  562305
+ubu-sv-1 47.254.22.105 845067
 win-hk-1 977504
 win-hk-2 114679
+
+aws
+ubu-cl-1 54.67.19.109 ec2-54-67-19-109.us-west-1.compute.amazonaws.com
+
 
 yunpian huhao 黄埔社区 797169378c121e86aa8d42dd3198cdfb
 yunpian 15869154101 mvc123$%^ 18588260056 mvcmvcmvc
