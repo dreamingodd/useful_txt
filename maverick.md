@@ -21,7 +21,7 @@ virtual box - ubuntu16.04-ethereum - ywd ywd
 aliyun
 ubu-hk-1 47.52.240.141 505854
 ubu-hk-2 47.75.14.213  562305
-ubu-hk-3 47.75.12.36   585189
+ubu-hk-3 47.75.12.36   585189 coinbase:"0xf621f2bfa44902dcca863cec17eb1c6713cdb14f"
 ubu-sv-1 47.254.22.105 845067
 win-hk-1 977504
 win-hk-2 114679
