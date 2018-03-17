@@ -5,6 +5,7 @@ IP:
   www.google.com : 74.86.228.110
 
 ExpressVPN:
+  E3CKASN78NWWIMEP76W10BI
   156.154.70.1
   4.2.2.1
 
