@@ -38,6 +38,7 @@ gash gale
 wheat barley
 breach breech
 forlorn forsake
+resort
 -----------------------------------------------------------
 
 Fringe Observer Appearances:
