@@ -23,10 +23,10 @@ AppleUS: bkgpt04@icloud.com Ee778899
 http://www.pingan.com/bdcy.shtml
 
 -----------------------------------------------------------
-
-forlorn forsake
-resort
-giddy daze
+bicker beak
+engrave chisel
+tame
+cottage shack
 -----------------------------------------------------------
 
 Fringe Observer Appearances:
