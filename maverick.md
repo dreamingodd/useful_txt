@@ -35,5 +35,7 @@ yunpian 15869154101 mvc123$%^ 18588260056 mvcmvcmvc
 PC Ywd111
 worktile 182 2
 
+token-exchange-interior test: mvc-admin e9c295e337aac88d63b0e351dc4d501f
+
 local
 sqlserver sa A@a123456

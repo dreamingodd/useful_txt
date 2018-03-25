@@ -19,26 +19,15 @@ AppleUS: bkgpt04@icloud.com Ee778899
 问题3：你的父母哪里认识的?
 答案：ds8872
 如若登录失败 请尝试重启手机 若验证密码错误失败 请仔细比对下账号密码
-注意看这里：美国区下载出现付款方式问题 先关掉 然后进手机设置里 进appstore里点账号然后查看id 再点payment 进入以后点done 就可以重新进app商店正常下载。如其他问题请加Vxin：593485536 
+注意看这里：美国区下载出现付款方式问题 先关掉 然后进手机设置里 进appstore里点账号然后查看id 再点payment 进入以后点done 就可以重新进app商店正常下载。如其他问题请加Vxin：593485536
 
 http://www.pingan.com/bdcy.shtml
 
 -----------------------------------------------------------
-Youdao:
-cape promontory
-dam couseway
-fence barrier palisade bailey battlement
-droll clow clown
-starch mortar
-advocate Mr. Williams is a conservative who advocates fewer government controls on business.
-mould moulder smoulder
-joust jostle
-corridor 查图
-freckle fleck
-gash gale
-wheat barley
-breach breech
-forlorn forsake
+bicker beak
+engrave chisel
+tame
+cottage shack
 -----------------------------------------------------------
 
 Fringe Observer Appearances:
