@@ -30,6 +30,10 @@ tame
 cottage shack
 -----------------------------------------------------------
 
+TOKEN:
+20180425 SMT BEC Contract Safemath Security Breach -> 1 day ETH go down 10%.
+
+
 Fringe Observer Appearances:
 S1E01,55:44,S2E01,
 S1E02,09:27,S2E02,
