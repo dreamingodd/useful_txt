@@ -109,3 +109,5 @@ S1E20,     ,S2E20,
 
 vpn自动配置脚本
 http://pp-pac.info/vpnpp.pac
+
+SCB: CNR706-51220
