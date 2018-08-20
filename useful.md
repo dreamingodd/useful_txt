@@ -27,7 +27,10 @@ http://www.pingan.com/bdcy.shtml
 bicker beak
 engrave chisel
 tame
+scraper
 cottage shack
+岬
+
 -----------------------------------------------------------
 
 TOKEN:
