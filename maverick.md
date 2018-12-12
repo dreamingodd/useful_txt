@@ -39,3 +39,35 @@ token-exchange-interior test: mvc-admin e9c295e337aac88d63b0e351dc4d501f
 
 local
 sqlserver sa A@a123456
+
+181128
+root@ip-172-31-37-139:/opt/token-tools# java -classpath "target/token-tools.jar:target/lib/*" com.temp.EstimateGas "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3" "0xd3a79de5b70d788bff9cc455af80fc4de1b8f940" "0x0ebe20df1c1170485b2bcbdbc6cb3b29f70423df"
+---- Task Begin ----
+Estimate Transfer Amount: 36590
+Estimate Approve Amount: 30867
+root@ip-172-31-37-139:/opt/token-tools# java -classpath "target/token-tools.jar:target/lib/*" com.temp.EstimateGas "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3" "0xd3a79de5b70d788bff9cc455af80fc4de1b8f940" "0x0ebe20df1c1170485b2bcbdbc6cb3b29f70423df"
+---- Task Begin ----
+Estimate Transfer Amount: 36590
+Estimate Approve Amount: 30867
+
+181129
+root@ip-172-31-37-139:/opt/token-tools# java -classpath "target/token-tools.jar:target/lib/*" com.temp.EstimateGas "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3" "0xe189559b51098a8faa2399911ec6e0f492b0db01" "0xd3a79de5b70d788bff9cc455af80fc4de1b8f940"
+---- Task Begin ----
+Estimate Transfer Amount: 24113
+Estimate Approve Amount: 45867
+root@ip-172-31-37-139:/opt/token-tools# java -classpath "target/token-tools.jar:target/lib/*" com.temp.EstimateGas "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3" "0xd3a79de5b70d788bff9cc455af80fc4de1b8f940" "0xe189559b51098a8faa2399911ec6e0f492b0db01"
+---- Task Begin ----
+Estimate Transfer Amount: 51590
+Estimate Approve Amount: (45867)
+root@ip-172-31-37-139:/opt/token-tools# java -classpath "target/token-tools.jar:target/lib/*" com.temp.EstimateGas "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3" "0xd3a79de5b70d788bff9cc455af80fc4de1b8f940" "0x0ebe20df1c1170485b2bcbdbc6cb3b29f70423df"
+---- Task Begin ----
+Estimate Transfer Amount: 36590
+Estimate Approve Amount: 30867
+root@ip-172-31-37-139:/opt/token-tools# java -classpath "target/token-tools.jar:target/lib/*" com.temp.EstimateGas "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3" "0x0ebe20df1c1170485b2bcbdbc6cb3b29f70423df" "0xd3a79de5b70d788bff9cc455af80fc4de1b8f940"
+---- Task Begin ----
+Estimate Transfer Amount: 36590
+Estimate Approve Amount: 30867
+root@ip-172-31-37-139:/opt/token-tools# java -classpath "target/token-tools.jar:target/lib/*" com.temp.EstimateGas "0xb17df9a3b09583a9bdcf757d6367171476d4d8a3" "0xd3a79de5b70d788bff9cc455af80fc4de1b8f940" "0xe189559b51098a8faa2399911ec6e0f492b0db01"
+---- Task Begin ----
+Estimate Transfer Amount: 51590
+Estimate Approve Amount: (30867) 3 hours later.
