@@ -25,12 +25,6 @@ AppleUS: bkgpt04@icloud.com Ee778899
 http://www.pingan.com/bdcy.shtml
 
 -----------------------------------------------------------
-bicker beak
-engrave chisel
-tame
-scraper
-cottage shack
-patriarch matriarch
 
 -----------------------------------------------------------
 
