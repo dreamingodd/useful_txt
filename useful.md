@@ -1,3 +1,16 @@
+words:
+
+word
+
+starch mortar
+ominous
+fence palisade
+vex trouble irk bother
+brindle stripe
+snuff
+laguna
+faucet facet
+
 
 Credit Card: POS: dq520d
 
