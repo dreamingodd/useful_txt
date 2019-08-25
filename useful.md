@@ -1,6 +1,8 @@
 words:
 
 
+2 4 5 6 7 9 10 11 15 17 18 19 20 22 23 25 26
+
 Credit Card: POS: dq520d
 
 IP:
