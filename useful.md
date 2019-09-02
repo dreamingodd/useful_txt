@@ -1,5 +1,14 @@
 words:
 
+brandy
+foster
+catty
+trump
+decay
+grin
+drum
+broom
+rim
 
 2 4 5 6 7 9 10 11 15 17 18 19 20 22 23 25 26
 
